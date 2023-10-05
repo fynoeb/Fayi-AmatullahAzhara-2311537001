@@ -1,4 +1,4 @@
-package Pekan2;
+package pekan2;
 
 public class TotalHargaBayar {
 
