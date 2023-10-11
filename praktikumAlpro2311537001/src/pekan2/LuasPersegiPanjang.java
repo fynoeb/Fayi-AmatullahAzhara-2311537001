@@ -7,6 +7,7 @@ public class LuasPersegiPanjang {
 	public static void main(String[] args) {
 		int p,l,luas;
 		Scanner input= new Scanner(System.in);
+		input.close();
 		System.out.print("panjang segi empat= ");
 		p=input.nextInt();
 		System.out.print("Lebar Segi Empat= ");

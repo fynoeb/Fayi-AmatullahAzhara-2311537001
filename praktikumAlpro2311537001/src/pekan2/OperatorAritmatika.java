@@ -9,6 +9,7 @@ public class OperatorAritmatika {
 		int A2;
 		int hasil;
 		Scanner keyboard = new Scanner(System.in);
+		keyboard.close();
 		System.out.print("input angka-1:");
 		A1 = keyboard.nextInt();
 		System.out.print("input angka-2:");
