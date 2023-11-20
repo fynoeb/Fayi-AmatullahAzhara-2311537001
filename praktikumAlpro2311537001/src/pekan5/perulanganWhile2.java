@@ -11,7 +11,7 @@ public class perulanganWhile2 {
 		// deklarasi scanner
 		
 		Scanner scan = new Scanner(System.in);
-		 scan.close();
+		 
 		while(jawab.equalsIgnoreCase("ya")) {
 			counter++;
 			System.out.println("Jumlah ="+counter);

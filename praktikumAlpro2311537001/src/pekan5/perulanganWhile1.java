@@ -12,7 +12,7 @@ public class perulanganWhile1 {
 		// deklarasi scanner
 		
 		Scanner scan = new Scanner(System.in);
-		 scan.close();
+		 
 		while(running) {
 			counter++;
 			System.out.println("Jumlah ="+counter);
