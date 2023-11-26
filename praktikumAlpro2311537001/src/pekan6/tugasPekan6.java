@@ -10,11 +10,11 @@ public class tugasPekan6 {
         for (int i=1; i<=n; i++) {
         	if (i%2 == 1 ) {
         		for (int j=1; j<=Math.ceil(n/2); j++) {
-        			 System.out.print("-");
+        			 System.out.print("- ");
         		}
         	} else {
         		for (int j=1; j<=Math.floor(n/2); j++) {
-       			 System.out.print("-");
+       			 System.out.print(" -");
         	}
         		
         }
